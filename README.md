@@ -1,0 +1,61 @@
+<h1 align = "center">Miguel Santana - Victor Picciutti 2DS</h1>
+<h2 align = "center">Funcionamento dos métodos propostos nos exercicios a partir de prints</h2>
+ 
+<h2>Link para o somee: <a href = "http://atividadedsaula05-rpgapi.somee.com">Somee →</a></h2>
+<h3>Método GetByName</h3>
+<img width="702" height="234" alt="image" src="https://github.com/user-attachments/assets/72637a77-68ac-4b04-bda5-23ad2a5c8b2d" /><br>
+ 
+<h3>Teste no Postman</h3>
+<img width="925" height="539" alt="image" src="https://github.com/user-attachments/assets/a1a2d03a-aa1b-4bcd-be33-b34739715066" /><br>
+ 
+<h3>Método GetClerigoMago</h3>
+<img width="1084" height="152" alt="image" src="https://github.com/user-attachments/assets/1277a8b7-af57-4654-b4f1-ca1811d18751" /><br>
+ 
+<h3>Teste no Postman</h3>
+<img width="925" height="513" alt="image" src="https://github.com/user-attachments/assets/10e0b761-b513-489c-b95d-8ad1bc5a8987" /><br>
+ 
+<h3>Método GetEstatisticas</h3>
+<img width="1155" height="115" alt="image" src="https://github.com/user-attachments/assets/2d45463f-2ecb-442b-8d02-15986bbd79d3" /><br>
+ 
+<h3>Teste no Postman</h3>
+<img width="935" height="381" alt="image" src="https://github.com/user-attachments/assets/0e13b3e1-2b0a-42de-9246-22db8c91ace8" /><br>
+ 
+<h3>Método PostValidacao</h3>
+<img width="1017" height="192" alt="image" src="https://github.com/user-attachments/assets/27f53380-15c9-429a-9831-6170faabd4ee" /><br>
+ 
+<h3>Teste no Postman</h3>
+-Com menos de 10 de defesa
+<img width="935" height="433" alt="image" src="https://github.com/user-attachments/assets/70013c7e-1c00-4788-b43a-f286ec261e80" /><br>
+ 
+-Com mais de 30 de inteligência
+<img width="916" height="434" alt="image" src="https://github.com/user-attachments/assets/ee4601ff-62b5-4953-b0f0-81b3d89fe8a1" /><br>
+ 
+-Dentro do pedido<br>
+<img width="940" height="565" alt="image" src="https://github.com/user-attachments/assets/9c98ce53-00fc-40e3-aff5-5a962a34ad0a" /><br>
+ 
+<h3>Método PostValidacaoMago</h3>
+<img width="766" height="186" alt="image" src="https://github.com/user-attachments/assets/5e9654a7-fa73-4598-8ace-60e70cb0346f" /><br>
+ 
+<h3>Teste no Postman</h3>
+-Com menos de 35 de inteligência<br>
+<img width="924" height="434" alt="image" src="https://github.com/user-attachments/assets/eba923f6-cd41-44eb-a620-b45bfe22c318" /><br>
+ 
+-Com mais de 35 de inteligência<br>
+<img width="939" height="566" alt="image" src="https://github.com/user-attachments/assets/dece6be8-fe0e-42e8-9d24-03f4e21beffc" /><br>
+ 
+<h3>Método GetByClasse</h3>
+<img width="757" height="415" alt="image" src="https://github.com/user-attachments/assets/b33ba592-796a-4ec2-a5f5-78950f4ab480" /><br>
+ 
+<h3>Teste No Postman</h3>
+-Classe Cavaleiro<br>
+<img width="925" height="534" alt="image" src="https://github.com/user-attachments/assets/96c7db78-bea1-4eb9-ad1c-03c08fd3656e" /><br>
+ 
+ 
+-Classe Mago<br>
+<img width="940" height="544" alt="image" src="https://github.com/user-attachments/assets/79309100-f9ba-425d-9e05-f0c2bddc1ed9" /><br>
+ 
+-Classe Clérigo<br>
+<img width="928" height="565" alt="image" src="https://github.com/user-attachments/assets/e5f730da-c249-4e6a-8cee-209b4e6be226" /><br>
+ 
+-Retorno de erro<br>
+<img width="935" height="437" alt="image" src="https://github.com/user-attachments/assets/e8663c6d-b06b-4d35-b0a1-b064741906ec" /><br>
